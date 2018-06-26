@@ -1,0 +1,41 @@
+{
+  "tools": {
+    "👩‍🎨 visualizers": {
+      "Tangle Visualiser": "https://visualizer.iota-tangle.io/",
+      "Tangle Glumb": "http://tangle.glumb.de/",
+      "3D Visualiser": "http://live.iotaknot.com/"
+    },
+    "🔭 explorer": {
+      "TheTangle.org": "https://thetangle.org/",
+      "iotasear.ch": "https://iotasear.ch/",
+      "Tanlge Boss": "http://tangleboss.com/"
+    },
+    "💻 statistics": {
+      "Tangle Monitor": "https://tanglemonitor.com/",
+      "IOTALedger Analytics":
+        "http://analytics.iotaledger.net/stresstest.table",
+
+      "Traveling IOTA": "http://traviota.iotalt.com/",
+      "Coordinator Watch": "http://coordinator.iotawatch.it/"
+    },
+    "🚀 promoter & reattach": {
+      "IOTA FM": "http://pro.iota.fm/",
+      "IOTA Reatta.ch": "https://www.iotareatta.ch/",
+      "Tangle Tools": "https://tangletools.org/",
+      "Marshall Haus": "http://iota.marshall.haus/",
+      "The Shah": "https://rajivshah3.github.io/iota-pow-er/index.html"
+    },
+    "💵 balance checker": {
+      "IOTA Balance": "https://iotabalance.com/"
+    },
+    "💸 taint analysis": {
+      "Pathfinder": "http://pathfinder.tanglescout.net/"
+    },
+    "🔪 spamming": {
+      "IOTA Spam": "http://iotaspam.com/"
+    },
+    "👨‍🏭 paid": {
+      "To Tangle": "https://totangle.com/"
+    }
+  }
+}
